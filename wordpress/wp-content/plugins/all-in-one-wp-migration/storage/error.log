@@ -1,0 +1,804 @@
+Jul 20 2017 04:32:02
+{"type":8,"message":"Undefined index: decompress","file":"E:\\wamp64\\www\\wordpress\\wp-includes\\class-wp-http-curl.php","line":292}
+
+Jul 20 2017 10:05:09
+{"type":8,"message":"Undefined index: decompress","file":"E:\\wamp64\\www\\wordpress\\wp-includes\\class-wp-http-curl.php","line":292}
+
+Jul 20 2017 11:53:21
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:22
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:23
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:25
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:26
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:27
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:28
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:29
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:30
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:31
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:33
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:34
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:35
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:36
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:37
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:38
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:39
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:40
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:40
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:41
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:42
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:44
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:45
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:45
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:46
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:47
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:48
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:50
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:51
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:51
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:52
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:53
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:54
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:55
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:56
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:57
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:57
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:58
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:53:59
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:00
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:01
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:02
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:03
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:03
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:04
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:05
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:06
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:07
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:08
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:09
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:09
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:10
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:11
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:12
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:13
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:14
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:14
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:15
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:16
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:17
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:18
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:19
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:20
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:20
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:21
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:22
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:23
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:24
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:25
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:26
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:27
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:27
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:28
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:29
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:30
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:31
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:33
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:34
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:35
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:36
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:37
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:38
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:38
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:39
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:40
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:41
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:42
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:44
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:45
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:46
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:47
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:48
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:50
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:51
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:52
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:53
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:54
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:54
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:55
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:56
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:57
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:58
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:54:59
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:00
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:01
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:01
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:02
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:03
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:04
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:05
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:06
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:06
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:07
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:08
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:09
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:10
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:11
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:11
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:12
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:13
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:14
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:15
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:15
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:16
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:17
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:18
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:19
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:20
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:20
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:21
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:22
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:23
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:24
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:25
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:25
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:26
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:27
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:28
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:29
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:30
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:31
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:31
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:33
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:34
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:35
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:36
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:36
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:37
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:38
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:39
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:40
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:41
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:42
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:42
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:44
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:45
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:46
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:47
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:48
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:48
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:50
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:51
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:52
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:53
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:53
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:54
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:55
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:56
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:57
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:58
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:58
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:55:59
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:00
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:01
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:02
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:03
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:04
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:05
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:05
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:06
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:07
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:08
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:09
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:10
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:11
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:11
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:12
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:13
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:14
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:15
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:16
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:17
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:17
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:18
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:19
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:20
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:21
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:22
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:22
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:23
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:24
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:25
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:26
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:27
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:28
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:29
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:30
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:30
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:31
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:33
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:34
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:35
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:36
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:37
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:37
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:38
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:39
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:40
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:41
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:42
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:44
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:45
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:46
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:47
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:48
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:49
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:50
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:51
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:52
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:53
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:54
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:55
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:56
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:56
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:57
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:58
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:56:59
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:00
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:01
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:02
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:03
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:04
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:05
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:06
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:57:07
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:58:32
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:58:33
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 11:58:43
+{"type":2,"message":"fclose() expects parameter 1 to be resource, boolean given","file":"E:\\wamp64\\www\\wordpress\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":90}
+
+Jul 20 2017 12:00:00
+{"type":8,"message":"Undefined index: decompress","file":"E:\\wamp64\\www\\wordpress\\wp-includes\\class-wp-http-curl.php","line":292}
+

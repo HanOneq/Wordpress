@@ -1,0 +1,510 @@
+/*
+
+Theme Name:		GreyRound
+
+Description:	GreyRound is a simple, responsive and minimalistic theme with smooth rounded corners.
+
+Theme URI: 		http://www.ynef.net/portfolio/GreyRound
+
+Author:			Frank Petser
+
+Author URI:		http://www.ynef.net
+
+Version:		0.1.0
+
+Tags:			black, gray, white, light, two-columns
+
+Text Domain:	greyround
+
+License:		GNU General Public License v2.0
+
+License URI:	http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+/* Version 0.0.5 additions START */
+select { border: 1px solid #ccc; width: 100%; float: left; margin: 2.1% 0 2.1% 0; outline:none; display: inline-block;
+	-webkit-appearance:none; -moz-appearance:none; appearance:none; cursor:pointer; padding: 2.1%; background: url('img/ynefnet.gif') 96% no-repeat;
+}
+/*Added a few lines for #navigationmenu a */
+.nav-previous {display: inline-block; float: left;}
+.nav-next {display: inline-block; float: right;}
+/* Version 0.0.5 additions END */
+
+/* Version 0.0.3 additions START */
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignleft {text-align: left; padding: 2.1% 2.1% 0 0;}
+.alignright {text-align: right; padding: 2.1% 0 0 2.1%;}
+.aligncenter {margin: 0 auto; padding: 2.1% 0 2.1% 0; max-width: 100%;}
+.alignnone {padding: 2.1% 0 2.1% 0; max-width: 100%;}
+.sticky {border: 2px dashed #0C0; padding: 2.1%;}
+.wp-caption {font-size: 0.75em; font-size: 0.75vw;}
+.wp-caption-text {font-size: 0.75em; font-size: 0.75vw;}
+.gallery-caption {font-size: 0.75em; font-size: 0.75vw;}
+textarea {width: 96%;}
+blockquote {width: 80%; margin: 0 auto; font-style: italic; padding: 2.1%;}
+tr,th,td {border: 1px solid #ccc; font-size: 0.85em;}
+kbd,code{font-family: monospace;}
+dt {padding: 0 0 2.1% 0;}
+dd {font-style: italic; padding: 0 0 2.1% 0;}
+ul,li {list-style-type: none; padding: 0 0 0 2.1%;}
+address,q {padding: 2.1%; font-style: italic;}
+cite {}
+abbr,acronym,em,var {font-style: italic;}
+ins {text-decoration: underline;}
+pre {
+    white-space: pre-wrap;       /* CSS 3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+hr{border: 0; width: 100%; color: #ccc; background-color: #ccc; height: 1px; float: left; margin: 2.1% 0 2.1% 0;}
+.postThumbnail {float: left; padding: 0 2.1% 0 0;}
+.postmetadata {font-size: 0.75em;}
+.commentmetadata {font-size: 0.75em;}
+.reply {padding: 0 0 2.1% 0;}
+/* Version 0.0.3 additions END */
+
+h1 {
+    font-size: 2em;
+	font-size: 2vw;
+}
+h2 {
+    font-size: 1.5em;
+	font-size: 1.5vw;
+}
+h3 {
+    font-size: 1em;
+	font-size: 1vw;
+}
+h4 {
+	font-style: normal;
+    font-size: 0.75em;
+	font-size: 0.75vw;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+img {max-width: 100%; height: auto;} /* This makes images responsive */
+a {text-decoration: none; color: #000000;}
+a:hover {text-decoration: underline; color: #000000;}
+body { 
+	color: #000000;
+	width: auto;
+	font-size: 100%;
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+    background-image: url('img/background.png');
+    background-repeat: no-repeat; /* Don't repeat the background */
+    background-position: center center; /*Center the background */
+    background-attachment: fixed; /*Don't scroll with content */
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	}
+#wrapper { 
+	display: block;
+	border: 0px;
+	width: 70%; 
+	height: 100%;
+	padding: 0;
+	margin: 0 auto;
+	}
+#header { 
+	display: block;
+	height: 0; /* was 23.2%; before but... */
+	padding-bottom: 15%; /* Having a fluid padding-bottom is usually enough to get a responsive height. 15% looks nice, right? */
+ 	margin-top: 2.1%;
+	margin-bottom: 2.1%;
+	margin-left: 0;
+	margin-right: 0;
+	background:#fff; /* Added in 0.0.4 for default background in case alphapixel can't be loaded */
+	background: url('img/alphapixel.png');
+	border: 2px #a2a2a2 solid; 
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+#titlebox {
+	border: 0px;
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+.blogtitle {
+    font-style: normal;
+	text-shadow: 2px 2px #a2a2a2;
+    font-size: 3em;
+	font-size: 3vw;
+	padding-top: 2.1%;
+	padding-right: 2.1%;
+	padding-bottom: 0;
+	padding-left: 2.1%;
+}
+.blogtitle a{color: #000000; text-decoration: none;}
+/* Responsive stuff for the blog title */
+@media all and (max-width: 900px) {
+  .blogtitle {
+    font-size: 2em;
+	font-size: 2vw;
+	text-shadow: 1px 1px #a2a2a2;
+  }
+}
+@media all and (max-width: 650px) {
+  .blogtitle {
+    font-size: 1.5em;
+	font-size: 1.5vw;
+	text-shadow: 1px 1px #a2a2a2;
+  }
+}
+@media all and (max-width: 500px) {
+  .blogtitle {
+    font-size: 1em;
+	font-size: 1vw;
+	text-shadow: 0.75px 0.75px #a2a2a2;
+  }
+}
+.tagline {
+    font-style: italic;
+	text-shadow: 1px 1px #a2a2a2;
+    font-size: 0.75em;
+	font-size: 0.75vw;
+	padding-top: 0;
+	padding-right: 2.1%;
+	padding-bottom: 2.1%;
+	padding-left: 2.1%;
+}
+/* Responsive stuff for the tagline */
+@media all and (max-width: 900px) {
+  .tagline {
+    font-size: 0.5em;
+	font-size: 0.5vw;
+  }
+}
+/* Don't display the tagline at all when width goes below 500px */
+@media all and (max-width: 500px) {
+  .tagline {
+    display: none;
+  }
+}
+#searchbox {
+	position: relative;
+	border: 0px;
+	margin: 0;
+	width: 30%;
+	height: 100%;
+	float: right;
+}
+.searchform{
+	margin: 0;
+	border: 0px;
+	width: 90%;
+}
+.searchfield {
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	text-align: right;
+	font-style: italic;
+	width: 50%;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px #a2a2a2 solid;
+	background: transparent;
+	margin: 0;
+	padding: 2.1%;
+	transition-duration: 400ms;
+	transition-property: width, background;
+	transition-timing-function: ease;
+ 
+	/* Safari and Chrome */
+	-webkit-transition-duration: 400ms;
+	-webkit-transition-property: width, background;
+	-webkit-transition-timing-function: ease;
+ 
+	/* Opera */
+	-o-transition-duration:400ms;
+	-o-transition-property: width, background;
+	-o-transition-timing-function: ease; 
+}
+.searchfield:focus {
+	width: 100%;
+}
+
+/* Socialmenu style starts */
+@media all and (max-width: 600px) {#socialmenu {display: none;}}
+#socialmenu  {float: right; border: 0px; width: 30%; height: auto; margin: 8% 2.1% 0 0; padding: 0;}
+#socialmenu ul {float: right; list-style-type: none;}
+#socialmenu li {display: inline; float: left; padding: 0; margin: 0;}
+#socialmenu a {display: block; width: 32px; height: 32px;}
+.facebook {background: url("img/facebook.png") center no-repeat;}
+.twitter {background: url("img/twitter.png") center no-repeat;} 
+.youtube {background: url("img/youtube.png") center no-repeat;} 
+/* Socialmenu style ends */
+
+#navigationmenu {
+	display: block;
+	border: 0px;
+	width: auto;
+	height: 0;
+	margin: 0;
+	padding-top: 0%; /* The headers margin-bottom already gives the visual of 2.1% here */
+	padding-bottom: 12.9%;
+	padding-right: 2.1%;
+	padding-left: 2.1%;
+}
+#navigationmenu ul li{
+    list-style-type: none; /* Remove the bullets */
+	margin-right: 2.1%;
+    padding: 0;
+}
+#navigationmenu a {
+	/* Added height, width and overflow hidden so the round links will not break with long page titles */
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+    display: block; /* Displaying the links as block elements makes the whole link area clickable (not just the text) */
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #a2a2a2;
+	font-size: 1.1em;
+	font-size: 1.1vw;
+	line-height: 7vw; /* Centers the text vertically (same height as element itself) */
+	text-align: center;
+	border: 1px #a2a2a2 solid;
+	background: #ffffff;
+	-moz-border-radius: 50%; /* 50% border radius turns it into a circle */
+	border-radius: 50%;
+	cursor: default;
+	transition-duration: 400ms;
+	transition-property: box-shadow;
+	transition-timing-function: ease;
+	-webkit-transition-duration: 400ms;
+	-webkit-transition-property: box-shadow;
+	-webkit-transition-timing-function: ease;
+	-o-transition-duration:400ms;
+	-o-transition-property: box-shadow;
+	-o-transition-timing-function: ease; 
+}
+#navigationmenu a:hover{
+	background:#ffffff;
+	border: 1px #a2a2a2 solid;
+	/* Give the button some shadows on hover */
+	-webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+}
+#navigationmenu li {
+	display: -moz-inline-stack;
+	display: inline-block; /* By default, <li> elements are block elements. Here, we remove the line breaks before and after each list item, to display them on one line */
+	float: left;
+	width: 7vw; /*Put these in the li element instead to avoid problems in Chrome. Actually it makes a lot more sense than putting them in a elements...lol*/
+	height: 7vw;
+} 
+#content { 
+	display: block;
+	width: 59%;
+	background:#fff; /* Added in 0.0.4 for default background in case alphapixel can't be loaded */
+	background: url('img/alphapixel.png');
+	border: 2px #a2a2a2 solid;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	float: left;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 2.1%;
+	padding-top: 0;
+	padding-bottom: 2.1%;
+    padding-right: 2.1%;
+    padding-left: 2.1%;
+	font-size: 1.1em;
+    font-size: 1.1vw;
+	}
+#sidebar { 
+	display: block;
+	text-decoration: none;
+	font-size: 1em;
+	font-size: 1vw;
+	text-align: left;
+	width: 31%;
+	background:#fff; /* Added in 0.0.4 for default background in case alphapixel can't be loaded */
+	background: url('img/alphapixel.png');
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 2px #a2a2a2 solid;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 2.1%;
+	padding-top: 0;
+	padding-bottom: 2.1%;
+    padding-right: 2.1%;
+    padding-left: 2.1%;
+	float: right;
+	}
+#sidebar a, ul{
+	color: #000000;
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#sidebar a:hover {
+	text-decoration: underline;
+}
+/* More responsive stuff in Version 0.0.3 */
+@media all and (max-width: 750px) { 
+	#content {width: 58%;}
+	#sidebar {width: 30%;}
+}
+/* This should make it fine on most smartphones */
+@media all and (max-width: 480px) {
+	#wrapper {width: 100%; margin: 0 auto; padding: 0;}
+	#content {width: 100%; margin: 0 auto; padding: 1%; float: left;}
+	#sidebar {width: 100%; margin: 0 auto; padding: 1%; float: left;}
+	/* A lighter background for faster data transfer */
+	body {width: 100%; background-image: url('img/light_grey.png');}
+	/* Overwrite the navigation menu, normalize for small devices */
+	#navigationmenu a {
+    display: block;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #a2a2a2;
+	font-size: 1.1em;
+	font-size: 1.1vw;
+	line-height: 1em;
+	line-height: 1vw;
+	text-align: left;
+	border: 0px;
+	background: #fff;
+	-moz-border-radius: 0%;
+	border-radius: 0%;
+	cursor: default;
+	transition-duration: 400ms;
+	transition-property: box-shadow;
+	transition-timing-function: ease;
+	-webkit-transition-duration: 400ms;
+	-webkit-transition-property: box-shadow;
+	-webkit-transition-timing-function: ease;
+	-o-transition-duration:400ms;
+	-o-transition-property: box-shadow;
+	-o-transition-timing-function: ease; 
+}
+}
+#delimiter { clear: both; }
+
+#footer { 
+	color: #000;
+	background:#fff; /* Added in 0.0.4 for default background in case alphapixel can't be loaded */
+	background: url('img/alphapixel.png');
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 2px #a2a2a2 solid; 
+	margin-top: 0;
+	margin-bottom: 2.1%;
+	margin-right: 0;
+	margin-left: 0;
+	padding-top: 2.1%;
+	padding-bottom: 2.1%;
+    padding-right: 2.1%;
+    padding-left: 2.1%;
+	font-size: 0.9em;
+    font-size: 0.9vw;
+	text-align: center;
+}
+#footer a {color: #000000; text-decoration: none;}
+#footer a:hover {color: #000000; text-decoration: underline;}
+
+#respond {
+	padding:2.1%;
+}
+#respond input[type=text]{
+	text-align: left;
+	-webkit-transition: box-shadow 400ms ease-in-out;
+	-moz-transition: box-shadow 400ms ease-in-out;
+	-ms-transition: box-shadow 400ms ease-in-out;
+	-o-transition: box-shadow 400ms ease-in-out;
+	outline: none;
+	font-family: 'Open Sans', sans-serif;
+	background: transparent;
+	border: 1px solid #a2a2a2;
+	margin: 2.1%;
+	width: 30%;
+}
+#respond input[type=text]:focus {
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+}
+#comment { /* For the comment form text field */
+	width:100%;
+	text-decoration: none;
+}
+#comment a{font-size: 0.25em;}
+.required {color: #00CC00;} /* Required field color */
+.fn {font-weight: bold; font-style: normal;} /* Name of the commenter */
+
+#submit {
+	margin-top: 2.1%;
+	margin-bottom: 2.1%;
+	margin-left: 0;
+	margin-right: 0;
+	width:4vw;
+	height:4vw;
+	background-color:#ffffff;
+	border:1px solid #a2a2a2;
+	font-family: 'Open Sans', sans-serif;
+	color:#a2a2a2;
+	font-size:0.75em;
+	font-size: 0.75vw;
+	/*set the border-radius at half the size of the width and height for a nice circle shape*/
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-transition: box-shadow 400ms ease-in-out;
+	-moz-transition: box-shadow 400ms ease-in-out;
+	-ms-transition: box-shadow 400ms ease-in-out;
+	-o-transition: box-shadow 400ms ease-in-out;
+}
+#submit:hover{
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+}
+.left {float: left;}
+.right {float: right;}
+.bypostauthor {}
+.previousNext {font-style: normal; font-size: 0.95em; text-align: center;} /* text-align removed in 0.0.4 so it defaults to left */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}

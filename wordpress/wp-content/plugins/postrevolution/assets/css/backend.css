@@ -1,0 +1,236 @@
+/* 
+CSS Document 
+File: assets/css/backend.css
+Description: Css classes for backend views
+Plugin: Post Revolution
+Author: unCommons
+*/
+
+@import url('icons.css');
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+
+#pr_layouts_meta_metabox {
+	background-image: url('../img/logo-un.png');
+    background-position: right 20px top 60px;
+	background-repeat: no-repeat;
+	font-family:'Roboto', sans-serif;
+	font-weight:300;
+}
+
+#pr_layouts_meta_metabox label {
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size:16px;
+	font-weight:700;
+	color:#444!important;
+}
+
+
+@media screen and (max-width: 1280px) {
+	#pr_layouts_meta_metabox {
+		background-image: none;
+	}
+}
+
+@media screen and (max-width: 965px) {
+	
+	#pr_custom_preset_menu {
+		display:none!important;
+	}
+	
+}
+
+textarea.large {
+	width: 50%;
+	height: 300px;
+}
+
+.vp-field.vp-html .field {
+	padding: 10px !important;
+}
+
+.vp-metabox .vp-field .field {
+	width: 50% !important;
+}
+
+.pr_bk_title {
+	text-transform: uppercase;
+	padding: 10px 0 10px 0 !important;
+	margin-top: 20px !important;
+	color: #0074A2;
+	font-size:30px!important;
+	font-family:'Open Sans Condensed', sans-serif;
+	font-weight:100;
+	border-bottom-width:5px!important;
+}
+
+#qt_content_pr_shortcodes {
+	background-position: 2px 2px!important;
+	width: 26px;
+}
+
+.vp-wpa-group-title {
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size:20px!important;
+	font-weight:300;
+}
+
+.wpa_group-pr_custom_preset .vp-wpa-group-heading, .wpa_group-pr_gallery .vp-wpa-group-heading {
+	background-color: #1BA39C !important;
+	position:relative;
+}
+
+.wpa_group-pr_custom_preset .vp-wpa-group-heading a:after {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	content: "\f067";
+	
+	display:inline-block;
+	font-size:12px;
+	position:absolute;
+	right:10px;
+	top:15px;
+}
+
+.vp-wpa-group-heading a {
+	color: #fff !important;
+	line-height: 40px !important;
+	font-size: 14px;
+}
+
+.wpa_group-pr_caption_title_group .vp-wpa-group-heading,
+.wpa_group-pr_caption_shape_group .vp-wpa-group-heading,
+.wpa_group-pr_caption_subtitle_group .vp-wpa-group-heading, 
+.wpa_group-pr_caption_metas_group .vp-wpa-group-heading,
+.wpa_group-pr_excerpt_header_group .vp-wpa-group-heading,
+.wpa_group-pr_excerpt_content_group .vp-wpa-group-heading,
+.wpa_group-pr_excerpt_button_group .vp-wpa-group-heading,
+.wpa_group-pr_preview_title_group .vp-wpa-group-heading,
+.wpa_group-pr_preview_subtitle_group .vp-wpa-group-heading,
+.wpa_group-pr_preview_content_group .vp-wpa-group-heading {
+	background-color: #22A7F0 !important;
+}
+
+.vp-wpa-group-heading a i {
+	margin-right: 10px;	
+	font-size: 20px;
+	line-height: 40px;
+}
+
+.vp-metabox .vp-checkimage .field input:checked ~ img, .vp-metabox .vp-radioimage .field input:checked ~ img, .vp-metabox .vp-checkimage .field input.checked ~ img, .vp-metabox .vp-radioimage .field input.checked ~ img {
+ background-color:transparent!important;
+ border-width:3px;
+}
+
+/* CUSTOM PRESET MENU */
+
+#pr_custom_preset_menu {
+	font-family:'Roboto', sans-serif;
+	position:fixed;
+	right: 20px;
+	bottom: 0;
+	background: #fff;
+	height: auto;
+	width: 260px;
+	padding: 10px 10px 5px 10px;
+	border: 1px solid #E5E5E5;
+	border-radius:2px;
+	z-index:999999;
+	
+	transition:all ease-in-out 0.3s;
+	-moz-transition:all ease-in-out 0.3s;
+	-o-transition:all ease-in-out 0.3s;
+	-webkit-transition:all ease-in-out 0.3s;
+	-ms-transition:all ease-in-out 0.3s;
+}
+
+#pr_custom_preset_menu .pr_menu_title {
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size:18px;
+	font-weight:700;
+	color:#444;
+	margin-bottom:10px;
+	line-height:26px;
+}
+
+#pr_custom_preset_menu .pr_menu_title .pr-gotop, #pr_custom_preset_menu .pr_menu_title .pr-nav-toggle {
+	text-decoration:none;
+	color:#444;
+	position:absolute;
+	top:10px;
+	cursor:pointer;
+	font-size:22px;
+}
+
+#pr_custom_preset_menu .pr_menu_title .pr-gotop {
+	right:10px;
+}
+
+#pr_custom_preset_menu .pr_menu_title .pr-nav-toggle {
+	right:40px;
+}
+
+#pr_custom_preset_menu .pr_menu_title a:hover {
+	text-decoration:none;
+	color:#ccc;
+}
+
+
+#pr_custom_preset_menu .pr_menu_main, #pr_custom_preset_menu .pr_menu_main li {
+	margin:0;
+	padding:0;
+}
+
+#pr_custom_preset_menu .pr_menu_main li a {
+	background:#1BA39C;
+	padding:10px;
+	display:block;
+	margin-bottom:5px;
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	cursor:pointer;
+	border-radius:3px;
+}
+
+#pr_custom_preset_menu .pr_menu_main li a:hover {
+	background:#108882;
+}
+
+#pr_custom_preset_menu .pr_menu_main li a i {
+	margin-right:3px;
+}
+
+#pr_custom_preset_menu .pr_submenu {
+	margin-left:20px;
+}
+
+#pr_custom_preset_menu .pr_submenu li a {
+	background:#22A7F0!important;
+	padding:6px 10px!important;
+	text-transform:none;
+	cursor:pointer;
+	border-radius:2px;
+}
+
+#pr_custom_preset_menu .pr_submenu li a:hover {
+	background:#1b86c0!important;
+}
+
+#pr_custom_preset_menu .pr_submenu li a i {
+	margin-right:3px;
+}
+
+.menu-hide {
+	display:none;
+}
+
+#qt_content_pr_shortcodes {
+	display:none;
+}

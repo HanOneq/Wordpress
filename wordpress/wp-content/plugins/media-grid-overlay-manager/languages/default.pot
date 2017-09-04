@@ -1,0 +1,923 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Grid - Overlay Manager\n"
+"POT-Creation-Date: 2016-11-11 14:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: LCweb\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ajax.php:95
+msgid "Source overlay not found"
+msgstr ""
+
+#: ../ajax.php:157
+msgid "Graphical elements"
+msgstr ""
+
+#: ../ajax.php:162
+msgid "Add new layer"
+msgstr ""
+
+#: ../ajax.php:170 ../ajax.php:203 ../overlay_builder.php:21
+msgid "Add"
+msgstr ""
+
+#: ../ajax.php:187
+msgid "Textual elements"
+msgstr ""
+
+#: ../ajax.php:192
+msgid "Add new element"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:239
+msgid "Visit plugin site"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:244
+msgid "Updater active"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:244
+msgid "Setup updater"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:325
+msgid "Unknown error"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:362
+msgid "Automatic Updates - Purchase Validation"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:364
+msgid "how to get purchase code?"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:370
+msgid "Envato username"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:373
+msgid "Purchase code"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:376
+msgid "Validate"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:381
+msgid "<strong style='color: #d54e21;'>IMPORTANT</strong>: purchase code can be used only for ONE domain. Use it <strong>only</strong> in final production website!"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:387
+msgid "Purchase successfully validated!"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:388
+msgid "Use new credentials"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:405
+msgid "Username missing"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:408
+msgid "Purchase code missing or incorrect"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:464
+msgid "Empty username or purchase code"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:491
+msgid "Item not found"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:494
+msgid "Purchase code already redeemed on another domain"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:497
+msgid "Error connecting to Envato servers"
+msgstr ""
+
+#: ../classes/lc_plugin_auto_updater.php:500
+msgid "Wrong username or purchase code"
+msgstr ""
+
+#: ../functions.php:15
+msgid "Full image layer"
+msgstr ""
+
+#: ../functions.php:16
+msgid "Vertical split layers"
+msgstr ""
+
+#: ../functions.php:17
+msgid "Horizontal split layers"
+msgstr ""
+
+#: ../functions.php:18
+msgid "Crossing layer"
+msgstr ""
+
+#: ../functions.php:19
+msgid "Corner slice"
+msgstr ""
+
+#: ../functions.php:21
+msgid "Single-side border"
+msgstr ""
+
+#: ../functions.php:22
+msgid "Outlined box"
+msgstr ""
+
+#: ../functions.php:24
+msgid "Central shape"
+msgstr ""
+
+#: ../functions.php:25
+msgid "Corner shape"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Standalone icon"
+msgstr ""
+
+#: ../functions.php:28
+msgid "Image layer"
+msgstr ""
+
+#: ../functions.php:29
+msgid "Image effects"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Text block <small>(not for text under images)</small>"
+msgstr ""
+
+#: ../functions.php:43
+msgid "Item's title"
+msgstr ""
+
+#: ../functions.php:44
+msgid "Item's excerpt"
+msgstr ""
+
+#: ../functions.php:45
+msgid "Separator"
+msgstr ""
+
+#: ../functions.php:46
+msgid "Button"
+msgstr ""
+
+#: ../functions.php:47
+msgid "Social buttons"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Custom content"
+msgstr ""
+
+#: ../functions.php:120
+msgid "CSS selector"
+msgstr ""
+
+#: ../functions.php:122
+msgid "collapse"
+msgstr ""
+
+#: ../functions.php:122
+msgid "expand"
+msgstr ""
+
+#: ../mg_overlay_manager.php:38
+msgid "Please activate Media Grid plugin to use the Overlay Manager add-on"
+msgstr ""
+
+#: ../mg_overlay_manager.php:50
+msgid "Media Grid v4.31 is required to use the Overlay Manager add-on"
+msgstr ""
+
+#: ../mg_overlay_manager.php:116 ../overlay_builder.php:9
+msgid "Overlay Manager"
+msgstr ""
+
+#: ../mg_overlay_manager.php:132 ../mg_overlay_manager.php:146
+msgid "MG Overlays"
+msgstr ""
+
+#: ../mg_overlay_manager.php:133
+msgid "MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:134
+msgid "Search MG Overlays"
+msgstr ""
+
+#: ../mg_overlay_manager.php:135
+msgid "Popular MG Overlays"
+msgstr ""
+
+#: ../mg_overlay_manager.php:136
+msgid "All MG Overlays"
+msgstr ""
+
+#: ../mg_overlay_manager.php:137
+msgid "Parent MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:138
+msgid "Parent MG Overlay:"
+msgstr ""
+
+#: ../mg_overlay_manager.php:139
+msgid "Edit MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:140
+msgid "Update MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:141
+msgid "Add New MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:142
+msgid "New MG Overlay"
+msgstr ""
+
+#: ../mg_overlay_manager.php:143
+msgid "Separate mg overlays with commas"
+msgstr ""
+
+#: ../mg_overlay_manager.php:144
+msgid "Add or remove MG Overlays"
+msgstr ""
+
+#: ../mg_overlay_manager.php:145
+msgid "Choose from most used MG Overlays"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:8 ../ol_fn_includes/ol_fields.php:13
+msgid "Shape"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:18
+msgid "Icon type"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:25
+msgid "Background color"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:30
+msgid "Background color (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:36
+msgid "Color"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:41
+msgid "Color (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:47
+msgid "Highlight <small>(leave empty to discard)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:53
+msgid "Highlight on hover <small>(leave empty to discard)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:59
+msgid "Opacity"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:68
+msgid "Opacity (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:80 ../ol_fn_includes/ol_fields.php:100
+msgid "Initial position"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:85
+msgid "Position (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:90 ../ol_fn_includes/ol_fields.php:105
+msgid "Position"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:95
+msgid "Corner"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:110
+msgid "Border side"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:115
+msgid "Show from"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:120
+msgid "Icon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:125
+msgid "Layer over text block?"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:131
+msgid "Image URL"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:131
+msgid "set image"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:135
+msgid "Image size"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:137
+msgid "auto"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:138
+msgid "fill"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:139
+msgid "fit"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:144
+msgid "Image position <small>(not for background-size = cover)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:151
+msgid "Image zoom (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:160
+msgid "Grayscale (by default)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:164
+msgid "Image blur (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:168
+msgid "Remove borders (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:172
+msgid "Hover effects"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:180
+msgid "Font size"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:189
+msgid "Font size (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:201
+msgid "Animation time"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:210
+msgid "Animation easing"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:215
+msgid "Transitions"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:222
+msgid "Animation delay"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:233
+msgid "Thickness"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:242 ../ol_fn_includes/ol_fields.php:248
+msgid "Style"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:253 ../ol_fn_includes/ol_fields.php:337
+msgid "Alignment"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:260
+msgid "Layers behavior <small>(only for bottom position)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:265
+msgid "Texts visibility"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:267
+msgid "always visible"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:268
+msgid "hidden by default"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:269
+msgid "hidden on hover"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:274
+msgid "Text vertically centered?"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:278
+msgid "Text max height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:287
+msgid "Padding <small>(top right bottom left)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:293
+msgid "Vertical margins <small>(top bottom)</small>"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:299
+msgid "Text alignment"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:304
+msgid "Line-height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:313
+msgid "Text styles"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:315
+msgid "bold"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:316
+msgid "italic"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:317
+msgid "uppercase"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:324
+msgid "Font family"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:329
+msgid "Text"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:333
+msgid "Full width?"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:342
+msgid "Border radius"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:351
+msgid "Border width"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:360
+msgid "Border width (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:369
+msgid "Border Style"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:374
+msgid "Border color"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:379
+msgid "Border color (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:385
+msgid "Custom text"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:390
+msgid "Edges margin"
+msgstr ""
+
+#: ../ol_fn_includes/ol_fields.php:399
+msgid "Edges margin (on hover)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:6
+#: ../ol_fn_includes/ol_select_opts.php:21
+msgid "circle"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:7
+msgid "diamond"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:8
+msgid "exagon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:9
+msgid "octagon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:10
+msgid "outlined circle"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:11
+msgid "outlined diamond"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:19
+msgid "triangle"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:20
+msgid "square"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:29
+#: ../ol_fn_includes/ol_select_opts.php:54
+#: ../ol_fn_includes/ol_select_opts.php:166
+#: ../ol_fn_includes/ol_select_opts.php:191
+msgid "center"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:30
+#: ../ol_fn_includes/ol_select_opts.php:66
+msgid "top-left"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:31
+msgid "top"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:32
+#: ../ol_fn_includes/ol_select_opts.php:67
+msgid "top-right"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:33
+#: ../ol_fn_includes/ol_select_opts.php:167
+#: ../ol_fn_includes/ol_select_opts.php:192
+msgid "right"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:34
+#: ../ol_fn_includes/ol_select_opts.php:68
+msgid "bottom-right"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:35
+msgid "bottom"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:36
+#: ../ol_fn_includes/ol_select_opts.php:69
+msgid "bottom-left"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:37
+#: ../ol_fn_includes/ol_select_opts.php:165
+#: ../ol_fn_includes/ol_select_opts.php:190
+msgid "left"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:38
+msgid "on mouse direction"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:55
+msgid "top-left corner"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:56
+msgid "top-right corner"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:57
+msgid "bottom-right corner"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:58
+msgid "bottom-left corner"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:79
+msgid "none"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:80
+msgid "Item type icon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:81
+msgid "Magnifier icon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:82
+msgid "Plus icon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:83
+msgid "Eye icon"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:94
+msgid "(no effect)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:95
+msgid "zoom-in and hide"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:96
+msgid "zoom-out and hide"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:98
+#: ../ol_fn_includes/ol_select_opts.php:129
+msgid "flip vertically"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:99
+#: ../ol_fn_includes/ol_select_opts.php:130
+msgid "flip horizontally"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:101
+#: ../ol_fn_includes/ol_select_opts.php:135
+msgid "door upward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:102
+#: ../ol_fn_includes/ol_select_opts.php:136
+msgid "door rightward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:103
+#: ../ol_fn_includes/ol_select_opts.php:137
+msgid "door downward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:104
+#: ../ol_fn_includes/ol_select_opts.php:138
+msgid "door leftward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:112
+msgid "ease"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:113
+msgid "linear"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:114
+msgid "ease-in"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:115
+msgid "ease-out"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:116
+msgid "ease-in-out"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:117
+msgid "ease-in-back"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:118
+msgid "ease-out-back"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:119
+msgid "ease-in-out-back"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:127
+msgid "zoom-in"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:128
+msgid "zoom-out"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:131
+msgid "spin vertically"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:132
+msgid "spin horizontally"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:133
+msgid "rotate"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:140
+msgid "upward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:141
+msgid "leftward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:142
+msgid "downward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:143
+msgid "rightward"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:151
+msgid "(standard behavior)"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:152
+msgid "always visible + use contents height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:153
+msgid "always show title + use contents height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:154
+msgid "always show title + full height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:155
+msgid "show on hover + use contents height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:156
+msgid "slide on hover vertically centered + use contents height"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:157
+msgid "curtain effect"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:170
+msgid "justify"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:180
+msgid "minimal"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:181
+msgid "rounded"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:182
+msgid "squared"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:200
+msgid "solid"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:201
+msgid "dotted"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:202
+msgid "dashed"
+msgstr ""
+
+#: ../ol_fn_includes/ol_select_opts.php:203
+msgid "double"
+msgstr ""
+
+#: ../overlay_builder.php:18
+msgid "Add Overlay"
+msgstr ""
+
+#: ../overlay_builder.php:26 ../overlay_builder.php:147
+#: ../overlay_builder.php:152 ../overlay_builder.php:155
+msgid "Overlays List"
+msgstr ""
+
+#: ../overlay_builder.php:32
+msgid "Preview"
+msgstr ""
+
+#: ../overlay_builder.php:33
+msgid "text-under"
+msgstr ""
+
+#: ../overlay_builder.php:36
+msgid "save to preview the overlay"
+msgstr ""
+
+#: ../overlay_builder.php:40
+msgid "Save overlay"
+msgstr ""
+
+#: ../overlay_builder.php:50 ../overlay_builder.php:212
+msgid "Select an overlay"
+msgstr ""
+
+#: ../overlay_builder.php:97
+msgid "Overlay added"
+msgstr ""
+
+#: ../overlay_builder.php:138
+msgid "clone overlay"
+msgstr ""
+
+#: ../overlay_builder.php:146 ../overlay_builder.php:223
+msgid "No existing overlays"
+msgstr ""
+
+#: ../overlay_builder.php:152
+msgid "pag"
+msgstr ""
+
+#: ../overlay_builder.php:152
+msgid "of"
+msgstr ""
+
+#: ../overlay_builder.php:171
+msgid "New overlay's name"
+msgstr ""
+
+#: ../overlay_builder.php:187
+msgid "Overlay cloned"
+msgstr ""
+
+#: ../overlay_builder.php:200
+msgid "Delete definitively the overlay?"
+msgstr ""
+
+#: ../overlay_builder.php:271
+msgid "Background opacity"
+msgstr ""
+
+#: ../overlay_builder.php:272
+msgid "Background opacity (on hover)"
+msgstr ""
+
+#: ../overlay_builder.php:275 ../overlay_builder.php:323
+msgid "supports \"transparent\""
+msgstr ""
+
+#: ../overlay_builder.php:301
+msgid "Element already added"
+msgstr ""
+
+#: ../overlay_builder.php:341
+msgid "One or more mandatory fields are empty"
+msgstr ""
+
+#: ../overlay_builder.php:381
+msgid "Overlay saved"
+msgstr ""
+
+#: ../overlay_builder.php:488
+msgid "Remove layer?"
+msgstr ""
+
+#: ../overlay_builder.php:538
+msgid "Picture chooser"
+msgstr ""
+
+#: ../overlay_builder.php:540
+msgid "Select Image"
+msgstr ""

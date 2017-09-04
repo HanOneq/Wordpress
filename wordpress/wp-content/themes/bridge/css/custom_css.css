@@ -1,0 +1,13 @@
+
+
+#popuppress-1294 .pps-close a.pps-close-link {     
+    background-color: #cb1c68;
+    border-radius: 1px;
+    height: 18px;
+    line-height: 1;
+    width: 18px;
+}
+.full_width,
+.container {
+    position: relative !important;
+}

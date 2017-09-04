@@ -1,0 +1,164 @@
+/* SHAPE 1 */
+
+.shape-1 {}
+
+/* SHAPE 2 */
+
+.shape-2 {
+	padding: 10px;
+}	
+
+/* SHAPE 3 */
+
+.shape-3 {
+	padding: 10px;
+}
+
+.shape-3 .caption-post {
+	border-bottom-right-radius: 25px;
+	-moz-border-bottom-right-radius: 25px;
+	-ms-border-bottom-right-radius: 25px;
+	-o-border-bottom-right-radius: 25px;
+	-webkit-bottom-right-radius: 25px;	
+}
+/* SHAPE 4 */
+
+.shape-4 {
+	padding: 20px;
+}
+
+/* SHAPE 5 */
+
+.shape-5 {
+	top: -20px;
+	left: 0;
+	right: 0;
+	bottom: -20px;
+	height: auto;
+	width: 100%;
+}
+
+/* SHAPE 6 */
+
+.shape-6 {
+	top: 0;
+	left: -20px;
+	right: -20px;
+	bottom: 0;
+	height: 100%;
+	width: auto;
+}
+
+/* SHAPE 7 */
+
+.shape-7 {
+	top: -10px;
+	left: -10px;
+}
+
+/* SHAPE 8 */
+
+.shape-8 {
+	top: -10px;
+	left: -10px;
+	right: -10px;
+	bottom: -10px;
+	height: auto;
+	width: auto;
+}
+
+/* SHAPE 9 */
+
+.shape-9 {
+	top: -20px;
+	left: -20px;
+	right: -20px;
+	bottom: -20px;
+	height: auto;
+	width: auto;
+}
+
+/* SHAPE 10 */
+
+.shape-10 {
+	padding: 10px;
+}
+
+.shape-10 .caption-post {
+	border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+/* SHAPE 11 */
+
+.shape-11 {
+	padding: 0 20px;
+}
+
+/* SHAPE 12 */
+
+.shape-12 {
+	padding: 20px 0;
+}
+
+/* SHAPE 13 */
+
+.shape-13 {
+	padding: 10px;
+}
+
+.shape-13 .caption-post {
+	top: -20px;
+	left: -20px;
+	right: -20px;
+	bottom: -20px;
+	height: auto;
+	width: auto;
+	
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}	
+
+/* SHAPE 14 */
+
+.shape-14 {
+	padding: 10px;
+}
+
+.shape-14 .caption-post {
+	border-top-left-radius: 25px;
+	-moz-border-top-left-radius: 25px;
+	-ms-border-top-left-radius: 25px;
+	-o-border-top-left-radius: 25px;
+	-webkit-border-top-left-radius: 25px;	
+}
+
+/* SHAPE 15 */
+
+.shape-15 {
+	padding: 20px 0;
+	right: -20px;
+	left: -20px;
+	width: auto;
+}
+
+/* SHAPE 16 */
+
+.shape-16 {
+	top: -10px;
+	left: -10px;
+	right: -10px;
+	bottom: -10px;
+	width: auto;
+	height: auto;
+}
+
+.shape-16 .caption-post {
+	border: 10px solid rgba(0,0,0,0.5);
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document 
+File: assets/css/frontend.css
+Description: Css classes for frontend views
+Plugin: Post Revolution
+Author: unCommons
+*/
+
+@import url("libs/animate.css");
+@import url("libs/layout.css"); 
+@import url("libs/preset.css");
+@import url("libs/shape.css");

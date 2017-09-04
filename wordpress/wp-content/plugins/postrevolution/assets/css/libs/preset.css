@@ -1,0 +1,517 @@
+/* CAPTION PRESET 1 */
+
+.color-1 {
+ 	background-color: #fff;
+}
+
+.color-1 .caption-title,
+.color-1 .btn-caption i {
+	color: #222;
+} 
+
+.color-1 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-1 .btn-caption span:hover i {
+	color: #222;
+}
+
+.color-1 .meta-caption span {
+	color: #222;
+}
+
+.color-1 .meta-caption span:hover {
+	border: 2px solid #222;
+}
+
+.color-1 .caption-subtitle {
+	background-color: #222;
+	color: #fff;
+}
+
+/* CAPTION PRESET 2 */
+
+.color-2 {
+	background-color: #7f8c8d;
+}
+
+.color-2 .caption-title,
+.color-2 .btn-caption i {
+	color: #fff;
+}
+
+.color-2 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-2 .btn-caption span:hover i {
+	color: #7f8c8d;
+}
+
+.color-2 .meta-caption span {
+	color: #fff;
+}
+
+.color-2 .caption-subtitle {
+	background-color: #fff;
+	color: #7f8c8d;
+}
+
+/* CAPTION PRESET 3 */
+
+.color-3 {
+	background-color: #e74c3c;
+}
+
+.color-3 .caption-title,
+.color-3 .btn-caption i {
+	color: #fff;
+}
+
+.color-3 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-3 .btn-caption span:hover i {
+	color: #e74c3c;
+}
+
+.color-3 .meta-caption span {
+	color: #fff;
+}
+
+.color-3 .caption-subtitle {
+	background-color: #fff;
+	color: #e74c3c;
+}
+
+/* CAPTION PRESET 4 */
+
+.color-4 {
+ 	background-color: #3498db;
+}
+
+.color-4 .caption-title,
+.color-4 .btn-caption i {
+	color: #fff;
+}
+
+.color-4 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-4 .btn-caption span:hover i {
+	color: #3498db;
+}
+
+.color-4 .meta-caption span {
+	color: #fff;
+}
+
+.color-4 .caption-subtitle {
+	background-color: #fff;
+	color: #3498db;
+}
+
+/* CAPTION PRESET 5 */
+
+.color-5 {
+ 	background-color: #ecf0f1;
+}
+
+.color-5 .caption-title,
+.color-5 .btn-caption i {
+	color: #333;
+} 
+
+.color-5 .btn-caption span:hover {
+	background-color: #333	
+}
+
+.color-5 .btn-caption span:hover i {
+	color: #ecf0f1;
+}
+
+.color-5 .meta-caption span {
+	color: #333;
+}
+
+.color-5 .meta-caption span:hover {
+	border-bottom-color: #333;
+}
+
+.color-5 .caption-subtitle {
+	background-color: #333;
+	color: #ecf0f1;
+}
+
+/* CAPTION PRESET 6 */
+
+.color-6 {
+ 	background-color: #2ecc71;
+}
+
+.color-6 .caption-title,
+.color-6 .btn-caption i {
+	color: #fff;
+} 
+
+.color-6 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-6 .btn-caption span:hover i {
+	color: #2ecc71;
+}
+
+.color-6 .meta-caption span {
+	color: #fff;
+}
+
+.color-6 .caption-subtitle {
+	background-color: #fff;
+	color: #2ecc71;
+}
+
+/* CAPTION PRESET 7 */
+
+.color-7 {
+ 	background-color: #e67e22;
+}
+
+.color-7 .caption-title,
+.color-7 .btn-caption i {
+	color: #fff;
+} 
+
+.color-7 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-7 .btn-caption span:hover i {
+	color: #e67e22;
+}
+
+.color-7 .meta-caption span {
+	color: #fff;
+}
+
+.color-7 .caption-subtitle {
+	background-color: #fff;
+	color: #e67e22;
+}
+
+/* CAPTION PRESET 8 */
+
+.color-8 {
+ 	background-color: #8e44ad;
+}
+
+.color-8 .caption-title,
+.color-8 .btn-caption i {
+	color: #fff;
+} 
+
+.color-8 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-8 .btn-caption span:hover i {
+	color: #8e44ad;
+}
+
+.color-8 .meta-caption span {
+	color: #fff;
+}
+
+.color-8 .caption-subtitle {
+	background-color: #fff;
+	color: #8e44ad;
+}
+
+/* CAPTION PRESET 9 */
+
+.color-9 {
+ 	background-color: #2c3e50;
+}
+
+.color-9 .caption-title,
+.color-9 .btn-caption i {
+	color: #fff;
+} 
+
+.color-9 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-9 .btn-caption span:hover i {
+	color: #2c3e50;
+}
+
+.color-9 .meta-caption span {
+	color: #fff;
+}
+
+.color-9 .caption-subtitle {
+	background-color: #fff;
+	color: #2c3e50;
+}
+
+/* RGBA */
+
+/* CAPTION PRESET 10 */
+
+.color-10 {
+	background-color: rgba(127,140,141,0.7);
+}
+
+.color-10 .caption-title,
+.color-10 .btn-caption i {
+	color: #fff;
+}
+
+.color-10 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-10 .btn-caption span:hover i {
+	color: rgba(127,140,141,0.7);
+}
+
+.color-10 .meta-caption span {
+	color: #fff;
+}
+
+.color-10 .caption-subtitle {
+	background-color: #fff;
+	color: #7f8c8d;
+}
+
+/* CAPTION PRESET 11 */
+
+.color-11 {
+	background-color: rgba(231,76,60,0.7);
+}
+
+.color-11 .caption-title,
+.color-11 .btn-caption i {
+	color: #fff;
+}
+
+.color-11 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-11 .btn-caption span:hover i {
+	color: rgba(231,76,60,0.7);
+}
+
+.color-11 .meta-caption span {
+	color: #fff;
+}
+
+.color-11 .caption-subtitle {
+	background-color: #fff;
+	color: #e74c3c;
+}
+
+/* CAPTION PRESET 12 */
+
+.color-12 {
+ 	background-color: rgba(52,152,219,0.7);
+}
+
+.color-12 .caption-title,
+.color-12 .btn-caption i {
+	color: #fff;
+}
+
+.color-12 .btn-caption span:hover {
+	background-color: #fff;
+}
+
+.color-12 .btn-caption span:hover i {
+	color: rgba(52,152,219,0.7);
+}
+
+.color-12 .meta-caption span {
+	color: #fff;
+}
+
+.color-12 .caption-subtitle {
+	background-color: #fff;
+	color: #3498db;
+}
+
+/* CAPTION PRESET 13 */
+
+.color-13 {
+ 	background-color: rgba(236,240,241,0.7);
+}
+
+.color-13 .caption-title,
+.color-13 .btn-caption i {
+	color: #333;
+} 
+
+.color-13 .btn-caption span:hover {
+	background-color: #333	
+}
+
+.color-13 .btn-caption span:hover i {
+	color: rgba(236,240,241,0.7);
+}
+
+.color-13 .meta-caption span {
+	color: #333;
+}
+
+.color-13 .meta-caption span:hover {
+	border-bottom-color: #333;
+}
+
+.color-13 .caption-subtitle {
+	background-color: #333;
+	color: #ecf0f1;
+}
+
+/* CAPTION PRESET 14 */
+
+.color-14 {
+ 	background-color: rgba(46,204,113,0.7);
+}
+
+.color-14 .caption-title,
+.color-14 .btn-caption i {
+	color: #fff;
+} 
+
+.color-14 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-14 .btn-caption span:hover i {
+	color: rgba(46,204,113,0.7);
+}
+
+.color-14 .meta-caption span {
+	color: #fff;
+}
+
+.color-14 .caption-subtitle {
+	background-color: #fff;
+	color: #2ecc71;
+}
+
+/* CAPTION PRESET 15 */
+
+.color-15 {
+ 	background-color: rgba(230,126,34,0.7);
+}
+
+.color-15 .caption-title,
+.color-15 .btn-caption i {
+	color: #fff;
+} 
+
+.color-15 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-15 .btn-caption span:hover i {
+	color: rgba(230,126,34,0.7);
+}
+
+.color-15 .meta-caption span {
+	color: #fff;
+}
+
+.color-15 .caption-subtitle {
+	background-color: #fff;
+	color: #e67e22;
+}
+
+/* CAPTION PRESET 16 */
+
+.color-16 {
+ 	background-color: rgba(142,68,173,0.7);
+}
+
+.color-16 .caption-title,
+.color-16 .btn-caption i {
+	color: #fff;
+} 
+
+.color-16 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-16 .btn-caption span:hover i {
+	color: rgba(142,68,173,0.7);
+}
+
+.color-16 .meta-caption span {
+	color: #fff;
+}
+
+.color-16 .caption-subtitle {
+	background-color: #fff;
+	color: #8e44ad;
+}
+
+/* CAPTION PRESET 17 */
+
+.color-17 {
+ 	background-color: rgba(44,62,80,0.7);
+}
+
+.color-17 .caption-title,
+.color-17 .btn-caption i {
+	color: #fff;
+} 
+
+.color-17 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-17 .btn-caption span:hover i {
+	color: rgba(44,62,80,0.7);
+}
+
+.color-17 .meta-caption span {
+	color: #fff;
+}
+
+.color-17 .caption-subtitle {
+	background-color: #fff;
+	color: #2c3e50;
+}
+
+/* CAPTION PRESET 18 */
+
+.color-18 {
+ 	background-color: rgba(0,0,0,0.5);
+}
+
+.color-18 .caption-title,
+.color-18 .btn-caption i {
+	color: #fff;
+} 
+
+.color-18 .btn-caption span:hover {
+	background-color: #fff	
+}
+
+.color-18 .btn-caption span:hover i {
+	color: #000;
+}
+
+.color-18 .meta-caption span {
+	color: #fff;
+}
+
+.color-18 .caption-subtitle {
+	background-color: #fff;
+	color: #000;
+}

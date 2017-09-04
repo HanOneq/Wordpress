@@ -1,0 +1,1302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Plugin\n"
+"POT-Creation-Date: 2014-10-02 16:46+0100\n"
+"PO-Revision-Date: 2014-10-02 16:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: WEBSELF Team <assistenza@webself.it>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../framework/bootstrap.php:88 ../framework/classes/option.php:364
+#: ../framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: ../framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: ../framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: ../framework/classes/metabox.php:566
+#: ../framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: ../framework/classes/metabox.php:588
+#: ../framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: ../framework/classes/option.php:47 ../framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: ../framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: ../framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: ../framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: ../framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: ../framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: ../framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: ../framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: ../framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: ../framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: ../framework/classes/option.php:479
+#: ../framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: ../framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: ../framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: ../framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: ../framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: ../framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: ../framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: ../framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: ../framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: ../framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: ../framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: ../framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: ../framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: ../framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: ../framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: ../framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: ../framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: ../framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: ../framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: ../framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: ../framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: ../framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:4
+#: ../framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:27
+#: ../framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: ../framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: ../framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: ../framework/views/option/set.php:69 ../framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/views/option/set.php:70 ../framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: ../framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: ../inc/shortcodes.php:32
+msgid ""
+"We are sorry but the Layout you selected not exixts or isn't publish yet"
+msgstr ""
+
+#: ../inc/shortcodes.php:640
+msgid " comments"
+msgstr ""
+
+#: ../inc/shortcodes.php:642
+msgid "1 comment"
+msgstr ""
+
+#: ../inc/shortcodes.php:743 ../inc/shortcodes.php:759
+msgid "Go to the Post"
+msgstr ""
+
+#: ../inc/shortcodes.php:913
+msgid "No items published found"
+msgstr ""
+
+#: ../inc/metaboxes/galleries.php:16
+msgid "Options"
+msgstr ""
+
+#: ../inc/metaboxes/galleries.php:26
+msgid "<i class=\"pricon-image-2\"></i> Image"
+msgstr ""
+
+#: ../inc/metaboxes/galleries.php:34
+msgid "Title"
+msgstr ""
+
+#: ../inc/metaboxes/galleries.php:42
+msgid "Upload"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:90
+msgid "<h3 class=\"pr_bk_title pr_title_thumbs\">Thumbnails</h3>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:95
+msgid "<h3 class=\"pr_bk_title pr_title_caption\">Caption</h3>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:100
+msgid "<h3 class=\"pr_bk_title pr_title_excerpt\">Excerpt</h3>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:105
+msgid "<h3 class=\"pr_bk_title pr_title_preview\">Preview</h3>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:110
+msgid "<h3 class=\"pr_bk_title pr_title_fonts\">Fonts</h3>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:136
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:145
+msgid "Grid Type"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:146
+msgid "Choose between 3 mosaic layouts"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:152
+msgid "Full Mosaic"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:157
+msgid "Mosaic Padding 5px"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:162
+msgid "Mosaic Padding 10px"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:176
+msgid "Grid Loader"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:177
+msgid "Choose between 8 loaders for your grid"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:183 ../inc/metaboxes/layouts.php:728
+#: ../inc/metaboxes/layouts.php:1278
+msgid "None"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:188
+msgid "Loader 1"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:193
+msgid "Loader 2"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:198
+msgid "Loader 3"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:203
+msgid "Loader 4"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:208
+msgid "Loader 5"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:213
+msgid "Loader 6"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:218
+msgid "Loader 7"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:223
+msgid "Loader 8"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:228
+msgid "Loader 9"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:233
+msgid "Loader 10"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:238
+msgid "Loader 11"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:253 ../inc/metaboxes/layouts.php:1031
+msgid "Source"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:257
+msgid "Posts"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:261
+msgid "Woocommerce Products"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:265
+msgid "PR Gallery"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:279
+msgid "Categories"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:280
+msgid "Filter your posts by Category"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:288 ../inc/metaboxes/layouts.php:317
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:308
+msgid "Woocommerce Categories"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:309
+msgid "Filter your products by Category"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:337
+msgid "Filtering Buttons"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:338
+msgid "Enable/Disable buttons to filter the items"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:350
+msgid "Choose your Gallery"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:371
+msgid "Posts Limit"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:372
+msgid "Set post limit to display on page (0 = unlimited)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:431
+msgid "Presets"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:432
+msgid "Choose between 27 presets or customize your own"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:436
+msgid "Manhattan"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:440
+msgid "London"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:444
+msgid "Paris"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:448
+msgid "Rome"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:452
+msgid "Venice"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:456
+msgid "Tokyo"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:460
+msgid "Seul"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:464
+msgid "Florence"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:468
+msgid "Las Vegas"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:472
+msgid "Rio"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:476
+msgid "Barcelona"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:480
+msgid "Sidney"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:484
+msgid "Berlin"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:488
+msgid "Amsterdam"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:492
+msgid "Madrid"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:496
+msgid "Moskow"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:500
+msgid "New Delhi"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:504
+msgid "Singapore"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:508
+msgid "Beijing"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:512
+msgid "Miami"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:516
+msgid "Casablanca"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:520
+msgid "Dublin"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:524
+msgid "Lima"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:528
+msgid "Los Angeles"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:532
+msgid "Manila"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:536
+msgid "Stockholm"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:540
+msgid "Cape Town"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:544
+msgid "Calgary"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:548
+msgid "Cairo"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:552
+msgid "Athens"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:556
+msgid "Custom"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:572
+msgid "<i class=\"pricon-settings\"></i> Custom Preset"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:595
+msgid "Primary Font"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:596
+msgid ""
+"Select a Google Font as Primary Font (for titles, subtitles and big texts)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:613
+msgid "Secondary Font"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:614
+msgid ""
+"Select a Google Font as Secondary Font (for content, excerpt and small texts)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:643
+msgid "Thumb Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:644
+msgid ""
+"Setup your grid with the number of columns you want (note: the grid will "
+"reduce this number if your wrapper is too small, so for <b>6 columns</b> you "
+"need a content wrapper of <b>1800px</b>, for <b>5 columns</b> you need "
+"<b>1600px</b> an so on.)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:650
+msgid "6 Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:655
+msgid "5 Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:660
+msgid "4 Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:665
+msgid "3 Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:670
+msgid "2 Columns"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:686
+msgid "Thumb Shape"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:687
+msgid ""
+"Choose the shape for your thumb (random feature will show your thumbs with 3 "
+"different shapes like a masonry grid)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:693
+msgid "Square"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:698 ../inc/metaboxes/layouts.php:1601
+msgid "Landscape"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:703
+msgid "Portrait"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:708
+msgid "Random"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:723
+msgid "Thumb Over Effect"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:724
+msgid "Choose between 4 over effects for your thumbs"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:732
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:736
+msgid "Opacity"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:763
+msgid "<i class=\"pricon-star pr-caption-shape\"></i> Shape"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:771
+msgid "Type"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:772
+msgid "Choose between 14 caption shapes for your thumb"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:776
+msgid "Full Caption"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:780
+msgid "Inner Frame"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:784
+msgid "Border Rounded Bottom"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:788
+msgid "Inner Frame Large"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:792
+msgid "Outer Vertical"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:796
+msgid "Outer Horizontal"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:800
+msgid "Translated"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:804
+msgid "Outer Frame"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:808
+msgid "Outer Frame Large"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:812
+msgid "Borders Rounded"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:816
+msgid "Curtain Vertical"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:820
+msgid "Curtain Horizontal"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:824
+msgid "Inner Frame Top Border Rounded"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:828
+msgid "Border Rounded Top"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:842
+msgid "Animation"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:843
+msgid "Choose between 10 shape animations"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:847 ../inc/metaboxes/layouts.php:1644
+msgid "Bounce In"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:851 ../inc/metaboxes/layouts.php:1648
+msgid "Swing"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:855 ../inc/metaboxes/layouts.php:1652
+msgid "Fade In Up Big"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:859
+msgid "Flip In X"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:863 ../inc/metaboxes/layouts.php:1656
+msgid "Fade In"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:867 ../inc/metaboxes/layouts.php:1660
+msgid "Bounce"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:871 ../inc/metaboxes/layouts.php:1664
+msgid "Slide In Down"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:875 ../inc/metaboxes/layouts.php:1668
+msgid "Pulse"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:879 ../inc/metaboxes/layouts.php:1676
+msgid "Slide In Left"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:883
+msgid "Slide In Right"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:897
+msgid "Animation Speed"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:898
+msgid "Choose between 3 shape animation speeds"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:902 ../inc/metaboxes/layouts.php:1703
+msgid "Slow"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:906 ../inc/metaboxes/layouts.php:1707
+msgid "Medium"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:910 ../inc/metaboxes/layouts.php:1711
+msgid "Fast"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:924 ../inc/metaboxes/layouts.php:1066
+#: ../inc/metaboxes/layouts.php:1830
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:925
+msgid "Select a color for your shape backgorund (opacity is allowed)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:936
+msgid "Permalink Icon"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:937
+msgid "Enable/Disable the icon with Permalink"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:949
+msgid "<i class=\"pricon-font pr-caption-title\"></i> Title"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:957 ../inc/metaboxes/layouts.php:1082
+#: ../inc/metaboxes/layouts.php:1182 ../inc/metaboxes/layouts.php:1330
+#: ../inc/metaboxes/layouts.php:1419 ../inc/metaboxes/layouts.php:1752
+#: ../inc/metaboxes/layouts.php:1841 ../inc/metaboxes/layouts.php:1919
+msgid "Color"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:958 ../inc/metaboxes/layouts.php:1753
+msgid "Select a color for your title"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:968 ../inc/metaboxes/layouts.php:1097
+#: ../inc/metaboxes/layouts.php:1197 ../inc/metaboxes/layouts.php:1352
+#: ../inc/metaboxes/layouts.php:1430 ../inc/metaboxes/layouts.php:1519
+#: ../inc/metaboxes/layouts.php:1763 ../inc/metaboxes/layouts.php:1852
+#: ../inc/metaboxes/layouts.php:1930
+msgid "Size"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:969 ../inc/metaboxes/layouts.php:1764
+msgid "Choose a size for your title (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:982 ../inc/metaboxes/layouts.php:1115
+#: ../inc/metaboxes/layouts.php:1215 ../inc/metaboxes/layouts.php:1366
+#: ../inc/metaboxes/layouts.php:1444 ../inc/metaboxes/layouts.php:1533
+#: ../inc/metaboxes/layouts.php:1777 ../inc/metaboxes/layouts.php:1866
+#: ../inc/metaboxes/layouts.php:1944
+msgid "Weight"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:983 ../inc/metaboxes/layouts.php:1778
+msgid "Choose a weight for your title"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:996 ../inc/metaboxes/layouts.php:1133
+#: ../inc/metaboxes/layouts.php:1233 ../inc/metaboxes/layouts.php:1380
+#: ../inc/metaboxes/layouts.php:1458 ../inc/metaboxes/layouts.php:1547
+#: ../inc/metaboxes/layouts.php:1791 ../inc/metaboxes/layouts.php:1880
+#: ../inc/metaboxes/layouts.php:1958
+msgid "Style"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:997 ../inc/metaboxes/layouts.php:1792
+msgid "Choose \"Normal\" or \"Italic\" style for your title"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1001 ../inc/metaboxes/layouts.php:1142
+#: ../inc/metaboxes/layouts.php:1242 ../inc/metaboxes/layouts.php:1385
+#: ../inc/metaboxes/layouts.php:1463 ../inc/metaboxes/layouts.php:1552
+#: ../inc/metaboxes/layouts.php:1796 ../inc/metaboxes/layouts.php:1885
+#: ../inc/metaboxes/layouts.php:1963
+msgid "Normal"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1005 ../inc/metaboxes/layouts.php:1146
+#: ../inc/metaboxes/layouts.php:1246 ../inc/metaboxes/layouts.php:1389
+#: ../inc/metaboxes/layouts.php:1467 ../inc/metaboxes/layouts.php:1556
+#: ../inc/metaboxes/layouts.php:1800 ../inc/metaboxes/layouts.php:1889
+#: ../inc/metaboxes/layouts.php:1967
+msgid "Italic"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1023
+msgid "<i class=\"pricon-bold pr-caption-subtitle\"></i> Subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1032
+msgid "Choose the subtitle source or disbale it"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1036
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1040
+msgid "Excerpt (Post & Woocommerce)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1044
+msgid "List of Categories (only Post)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1048
+msgid "List of Tags (only Post)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1052
+msgid "Price (only Woocommerce)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1067
+msgid ""
+"Select a color for your caption subtitle backgorund (opacity is allowed)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1083 ../inc/metaboxes/layouts.php:1842
+msgid "Select a color for your subtitle font"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1098 ../inc/metaboxes/layouts.php:1853
+msgid "Choose a size for your subtitle (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1116 ../inc/metaboxes/layouts.php:1867
+msgid "Choose a weight for your subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1134 ../inc/metaboxes/layouts.php:1881
+msgid "Choose \"Normal\" or \"Italic\" style for your subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1164
+msgid "<i class=\"pricon-tags pr-caption-metas\"></i> Metas"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1172
+msgid "Enable Metas"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1173
+msgid ""
+"Enable/Disable the metas to the bottom of the caption (only visible on "
+"<b>Post source</b> and if the image is <b>high enough</b>)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1183
+msgid "Select a color for your metas font"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1198
+msgid "Choose a size for your metas (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1216
+msgid "Choose a weight for your metas"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1234
+msgid "Choose \"Normal\" or \"Italic\" style for your metas"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1273
+msgid "Excerpt Style"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1274
+msgid "Choose between 4 Excerpt types"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1282
+msgid "Category (only Post)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1286
+msgid "Title (Post & Woocommerce)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1300
+msgid "Excerpt BG Color"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1301
+msgid "Select a color for the background of your excerpt"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1318
+msgid "<i class=\"pricon-type pr-excerpt-header\"></i> Header"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1331
+msgid "Select a color for your header section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1341
+msgid "Mouseover Color"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1342
+msgid "Select a color for the over of your header section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1353
+msgid "Choose a size for your header section (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1367
+msgid "Choose a weight for your header section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1381
+msgid "Choose \"Normal\" or \"Italic\" style for your header section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1407
+msgid "<i class=\"pricon-menu-2 pr-excerpt-content\"></i> Content"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1420 ../inc/metaboxes/layouts.php:1920
+msgid "Select a color for your content section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1431 ../inc/metaboxes/layouts.php:1931
+msgid "Choose a size for your content section (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1445 ../inc/metaboxes/layouts.php:1945
+msgid "Choose a weight for your content section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1459 ../inc/metaboxes/layouts.php:1959
+msgid "Choose \"Normal\" or \"Italic\" style for your content section"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1485
+msgid "<i class=\"pricon-hand-right pr-excerpt-button\"></i> Read More Button"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1497
+msgid "Text"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1498
+msgid "Insert yout preferred text for the button"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1508
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1509
+msgid "Select a color for the text of the button"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1520
+msgid "Choose a size for the text of the button (px)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1534
+msgid "Choose a weight for the text of the button"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1548
+msgid "Choose \"Normal\" or \"Italic\" style for the text of the button"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1583
+msgid "Enable Post Preview"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1584
+msgid "An amazing preview lightbox for your <b>posts</b> or <b>products</b>"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1592
+msgid "Preview Lightbox Style"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1593
+msgid "Choose between 6 preview styles"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1605
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1609
+msgid "Porthole"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1613
+msgid "Bubble"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1617
+msgid "Rounded"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1621
+msgid "Shadow"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1635
+msgid "Preview Lightbox Animation"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1636
+msgid "Choose between 12 preview animations"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1672
+msgid "Bounce In Down"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1680
+msgid "Slide in RIght"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1694
+msgid "Preview Animation Speed"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1695
+msgid "Choose between 3 preview animation speed"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1725
+msgid "Drag Scrolling"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1726
+msgid "Scroll the preview text with the mouse drag"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1740
+msgid "<i class=\"pricon-font pr-preview-title\"></i> Title"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1818
+msgid "<i class=\"pricon-bold pr-preview-subtitle\"></i> Subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1831
+msgid "Select a color for your subtitle backgorund (opacity is allowed)"
+msgstr ""
+
+#: ../inc/metaboxes/layouts.php:1907
+msgid "<i class=\"pricon-menu-2 pr-preview-content\"></i> Content"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:16 ../inc/posttypes/galleries.php:22
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:17
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:18 ../inc/posttypes/layouts.php:18
+msgid "Add New"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:19
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:20
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:21
+msgid "New Gallery"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:23
+msgid "View Gallery"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:24
+msgid "Search Galleries"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:25
+msgid "No galleries found"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:26
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:57 ../inc/posttypes/galleries.php:60
+msgid "Gallery updated."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:58 ../inc/posttypes/layouts.php:84
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:59 ../inc/posttypes/layouts.php:85
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:62
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:63
+msgid "Gallery published."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:64
+msgid "Gallery saved."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:65
+msgid "Gallery submitted."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:66
+#, php-format
+msgid "Gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:68 ../inc/posttypes/layouts.php:94
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/posttypes/galleries.php:69
+msgid "Gallery draft updated."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:16 ../inc/posttypes/layouts.php:22
+msgid "Layouts"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:17
+msgid "Layout"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:19
+msgid "Add New Layout"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:20
+msgid "Edit Layout"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:21
+msgid "New Layout"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:23
+msgid "View Layout"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:24
+msgid "Search Layouts"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:25
+msgid "No layouts found"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:26
+msgid "No layouts found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:28
+msgid "Post Revolution"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:56
+msgid "Schortcode"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:83 ../inc/posttypes/layouts.php:86
+msgid "Layout updated."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:88
+#, php-format
+msgid "Layout restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:89
+msgid "Layout published."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:90
+msgid "Layout saved."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:91
+msgid "Layout submitted."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:92
+#, php-format
+msgid "Layout scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../inc/posttypes/layouts.php:95
+msgid "Layout draft updated."
+msgstr ""

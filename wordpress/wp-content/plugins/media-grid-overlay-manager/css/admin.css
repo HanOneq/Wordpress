@@ -1,0 +1,256 @@
+/* OVERLAY BUILDER */
+#mgom_builder_ol_tit {
+	font-size: 15px !important;
+    padding-left: 0 !important;	
+}
+#mg_ol_box .misc-pub-section-last {
+	position: relative;	
+	overflow: hidden;
+}
+#mg_ol_box .misc-pub-section-last > span:first-child {
+    float: left;
+}
+#mg_ol_box .misc-pub-section-last .mg_grid_tit {
+	float: left;
+    padding-left: 7px;
+    width: 213px;	
+}
+.mgmo_clone {
+	background: url('../img/clone_icon.png') no-repeat scroll top left #fff;
+	padding: 0;
+	cursor: pointer;
+	display: none;
+	width: 15px;
+	height: 15px;	
+	right: 27px;
+	position: absolute;
+	box-shadow: -7px 7px 5px 8px #fff;
+}
+#mg_ol_box .misc-pub-section-last:hover .mgmo_clone {
+	display: inline-block;
+}
+.mgmo_clone:hover {
+	background-position: bottom left;
+}
+.mgom_builder > h2 {
+	margin-top: 0px !important;	
+}
+#mgom_graphic_layers .inside,
+#mgom_txt_layers .inside {
+	padding: 5px 15px 12px;
+}
+#mgom_txt_layers { /* overflow fix for dropdowns*/
+	margin-bottom: 190px !important;
+}
+
+.mgom_add_layer {
+	height: 54px;
+    margin-top: -6px;	
+	line-height: 35px;
+}
+.mgom_add_layer > select,
+.mgom_add_layer .chosen-container {
+	width: 300px;
+	margin: 0 10px;
+	position: relative;
+	bottom: 0px !important;		
+}
+.mgom_add_layer > input {
+	position: relative;
+	bottom: -5px;	
+}
+.mgom_add_layer > span {
+	display: inline-block;
+	margin-left: 7px;
+	position: relative;
+	bottom: -3px;
+}
+
+#mg_ol_box .misc-pub-section-last {
+    border-bottom: 1px solid #DFDFDF;
+    padding: 8px 0;
+}
+#mg_ol_box .misc-pub-section-last:last-child {
+    border-bottom: none;
+}
+
+#mgom_save_to_preview {
+	display: none;
+	background: url('../img/refresh_bg.png') no-repeat scroll 75px 55px #fff;
+	color: #222222;
+    height: 195px;
+    left: 12px;
+    opacity: 0.8;
+    padding: 0;
+    position: absolute;
+    top: 42px;
+    width: 255px;
+}
+#mgom_save_to_preview span {
+	display: block;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 31px;
+    text-align: center;
+}
+
+.mgom_type_block {
+	background: #FCFCFC;
+    border-bottom: 1px solid #E9E9E9;
+    border-left: 1px solid #E9E9E9;
+    border-right: 1px solid #E9E9E9;
+    margin: 0 0 12px;
+    padding: 30px 12px 0px;	
+	position: relative;
+}
+.mgom_type_block > h4 {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+	
+	background: #E9E9E9;
+    font-size: 13px;
+    font-weight: bold;
+    margin: -30px 0 7px !important;
+    padding: 6px 7px;
+    position: absolute;
+	left: 0;
+	right: 0;
+}
+.mgom_type_block .mgom_btm_border_fix {
+	height: 1px;
+	background: #FCFCFC;
+	margin-top: -2px;	
+}
+
+.mgom_type_block > h4 .mgom_css_selector {
+	display: inline;
+    font-size: 12px;
+    font-weight: normal;	
+}
+.mgom_type_block > h4 .mgom_css_selector span {
+	padding: 0 0 0 2px;
+	margin: 0px;
+	color: #444;
+	cursor: default;
+}
+.mgom_type_block > h4 .mgom_cmd {
+	float: right;	
+}
+.mgom_type_block > h4 .mgom_cmd > span {
+	display: inline-block;
+    margin: 0 3px -4px 7px !important;
+}
+.mgom_type_block > h4 .mgom_cmd > span.lcwp_move_row {
+	cursor: n-resize;	
+}
+.mgom_type_block > h4 .mgom_ec {
+	cursor: pointer;
+	color: #0074A2;
+	padding-right: 5px;
+	width: 50px;
+}
+.mgom_type_block > h4 .mgom_ec:hover {
+	color: #2EA2CC;
+}
+
+
+/* collapse/expand options */
+.mgom_ec .collapse {display: inline-block;}
+.mgom_ec .expand {display: none;}
+.mgom_ec.collapsed .collapse {display: none !important;}
+.mgom_ec.collapsed .expand {display: inline-block !important;}
+
+
+/* fields */
+.mgom_type_block .mgom_field {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+	
+	min-height: 75px;
+	display: inline-block;
+	width: 25%;
+	min-width: 250px;
+	padding: 13px 18px;
+    vertical-align: bottom;
+	border-bottom: 1px solid #e5e5e5;
+}
+.mgom_field label {
+	font-size: 12px;
+	cursor: default;	
+}
+.mgom_field .ui-slider {
+	margin-top: 16px !important;
+    width: 52% !important;
+	margin-left: 3px !important;
+}	
+.mgom_f_txt_padding { /* padding multiple field */
+	max-width: 35px;	
+}
+.mgom_field .lcs_wrap {
+	margin-top: 6px;	
+}
+
+.mgom_type_block .mgom_full_field {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+	
+	min-height: 75px;
+	display: inline-block;
+	width: 100%;
+	min-width: 250px;
+	padding: 13px 18px;
+    vertical-align: bottom;
+	border-bottom: 1px solid #e5e5e5;
+}
+.mgom_full_field label {
+	display: block !important;
+	font-size: 12px;	
+}
+.mgom_full_field textarea {
+	width: 100% !important;	
+	max-width: 1210px;
+	font-size: 12px;
+    line-height: 19px;
+    min-height: 100px;
+    padding: 7px 10px;
+}
+.mgom_field select,
+.mgom_full_field select {
+    width: 85%;
+}
+
+#mgom_txt_under_toggle {
+	background: #f0f0f0;
+    border-radius: 2px;
+    float: right;
+    font-size: 12px;
+    margin-top: -1px;
+    padding: 2px 7px 3px;
+    text-decoration: none;	
+}
+#mgom_txt_under_toggle.mgom_active {
+	background: #5a9b2f;
+    color: #fff !important;
+}
+.tb_img_fx .mgom_css_selector {
+	display: none !important;	
+}
+
+/* image layer */
+#mgom_img_ol_wizard {
+	float: right;
+	text-decoration: none;
+}
+#mgom_img_ol_wizard:focus,
+#mgom_img_ol_wizard:active {
+	box-shadow: none;	
+}
+.tb_img_ol input {
+	width: 90%;	
+}
+
+
+/* WP 4 - remove "view details" link in plugins page */
+body.plugins-php #media-grid-overlay-manager-add-on .plugin-version-author-uri a:last-child {
+	display: none !important;	
+}
